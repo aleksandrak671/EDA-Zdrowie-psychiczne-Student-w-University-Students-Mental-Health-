@@ -1,37 +1,37 @@
-# EDA – Zdrowie psychiczne Studentów (University Students’ Mental Health)
+# EDA – University Students’ Mental Health
 
-✅ [🌐 Zobacz projekt jako stronę internetową (GitHub Pages)](https://aleksandrak671.github.io/EDA-Zdrowie-psychiczne-Student-w-University-Students-Mental-Health-/)
-
----
-
-## Opis projektu
-
-Analiza eksploracyjna danych (EDA) dotyczących zdrowia psychicznego studentów na podstawie ankiet zebranych wśród studentów uniwersytetu w Malezji. Projekt ma na celu lepsze zrozumienie czynników wpływających na samopoczucie psychiczne, ich rozkładu w populacji oraz identyfikację potencjalnych obszarów wsparcia.
-
-Analiza obejmuje:
-- Wczytanie i wstępne przygotowanie danych
-- Opis zmiennych i ich rozkładów
-- Testowanie hipotez i odpowiedzi na pytania badawcze
-- Wizualizacje i interpretację wyników
+✅ [🌐 View the project as a web page (GitHub Pages)](https://aleksandrak671.github.io/EDA-Zdrowie-psychiczne-Student-w-University-Students-Mental-Health-/)
 
 ---
 
-## Szczegóły
+## Project Description
 
-Dane zostały zebrane za pomocą ankiety online i obejmują takie zmienne jak:
-- Poziom stresu
-- Problemy ze snem
-- Samopoczucie psychiczne
-- Czynności relaksacyjne
-- Wsparcie społeczne
+Exploratory Data Analysis (EDA) of mental health among university students, based on survey data collected from students at a university in Malaysia. The goal is to better understand factors influencing mental well-being, their distribution in the population, and to identify potential areas for support.
 
-Celem analizy jest przedstawienie wniosków, które mogą pomóc w projektowaniu programów wsparcia dla studentów oraz zwiększeniu świadomości na temat znaczenia zdrowia psychicznego w środowisku akademickim.
+The analysis includes:
+- Loading and initial preparation of the data
+- Describing variables and their distributions
+- Hypothesis testing and answering research questions
+- Visualization and interpretation of results
 
 ---
 
-## Technologie
+## Details
 
-Projekt został wykonany w języku R z wykorzystaniem pakietów takich jak:
+The data was collected through an online survey and includes variables such as:
+- Stress level
+- Sleep problems
+- Mental well-being
+- Relaxation activities
+- Social support
+
+The aim of this analysis is to draw conclusions that can help design support programs for students and increase awareness of the importance of mental health in academic environments.
+
+---
+
+## Technologies
+
+The project was developed in R using packages such as:
 - dplyr
 - ggplot2
 - tidyr
@@ -42,15 +42,15 @@ Projekt został wykonany w języku R z wykorzystaniem pakietów takich jak:
 
 ---
 
-## Publikacja
+## Publication
 
-Projekt opublikowany jako statyczna strona HTML przy użyciu GitHub Pages, co pozwala na wygodne przeglądanie wyników i wizualizacji bez konieczności lokalnego uruchamiania kodu.
+The project is published as a static HTML page using GitHub Pages, allowing for easy viewing of results and visualizations without needing to run the code locally.
 
 ---
 
-## Źródło danych i kontekst
+## Data Source and Context
 
-Dane wykorzystane w tej analizie pochodzą z publicznie dostępnego zbioru na Kaggle:  
+The data used in this analysis comes from a publicly available dataset on Kaggle:  
 ➡️ [University Students’ Mental Health Dataset on Kaggle](https://www.kaggle.com/datasets/junnn0126/university-students-mental-health/data)
 
-Projekt został przygotowany w ramach zajęć **Wstęp do analizy danych 2024/25** na studiach, jako przykład praktycznego zastosowania metod eksploracyjnej analizy danych (EDA).
+This project was prepared as part of the **Introduction to Data Analysis 2024/25** university course, serving as a practical example of applying exploratory data analysis (EDA) methods.
