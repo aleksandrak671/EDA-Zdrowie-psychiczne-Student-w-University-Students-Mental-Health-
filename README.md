@@ -46,3 +46,11 @@ Projekt został wykonany w języku R z wykorzystaniem pakietów takich jak:
 
 Projekt opublikowany jako statyczna strona HTML przy użyciu GitHub Pages, co pozwala na wygodne przeglądanie wyników i wizualizacji bez konieczności lokalnego uruchamiania kodu.
 
+---
+
+## Źródło danych i kontekst
+
+Dane wykorzystane w tej analizie pochodzą z publicznie dostępnego zbioru na Kaggle:  
+➡️ [University Students’ Mental Health Dataset on Kaggle](https://www.kaggle.com/datasets/junnn0126/university-students-mental-health/data)
+
+Projekt został przygotowany w ramach zajęć **Wstęp do analizy danych 2024/25** na studiach, jako przykład praktycznego zastosowania metod eksploracyjnej analizy danych (EDA).
