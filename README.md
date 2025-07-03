@@ -1,6 +1,6 @@
 # EDA – University Students’ Mental Health
 
-[🌐 View the project as a web page (GitHub Pages)](https://aleksandrak671.github.io/EDA-Zdrowie-psychiczne-Student-w-University-Students-Mental-Health-/)
+[🌐 View the project as a web page (GitHub Pages)](https://aleksandrak671.github.io/EDA-Zdrowie-psychiczne-Student-w-University-Students-Mental-Health/)
 
 ---
 
